@@ -275,3 +275,4 @@ c:\Users\davea\Desktop\Blazor\Parking\Parking\bin\Debug\net8.0\runtimes\win\lib\
 c:\Users\davea\Desktop\Blazor\Parking\Parking\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 c:\Users\davea\Desktop\Blazor\Parking\Parking\obj\Debug\net8.0\Parking.csproj.AssemblyReference.cache
 c:\Users\davea\Desktop\Blazor\Parking\Parking\obj\Debug\net8.0\Parking.csproj.Up2Date
+C:\Users\davea\Desktop\Blazor\Parking\Parking\obj\Debug\net8.0\Parking.sourcelink.json
